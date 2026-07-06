@@ -1,0 +1,12 @@
+.next/
+out/
+node_modules/
+tsconfig.tsbuildinfo
+
+*.log
+.env
+.env.*
+
+.claude/
+output/
+reference/
